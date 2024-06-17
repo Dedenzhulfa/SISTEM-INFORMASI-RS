@@ -65,15 +65,15 @@
 	    </div>
 	  </nav>
 	  
-	  <section class="hero-wrap js-fullheight" style="background-image: url('images/bg_3.jpg');" data-section="home" data-stellar-background-ratio="0.5">
+	  <section class="hero-wrap js-fullheight" style="background-image: url('images/bg-3.jpg');" data-section="home" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-6 pt-5 ftco-animate">
           	<div class="mt-5">
-          		<span class="subheading">Welcome to Mediplus</span>
-	            <h1 class="mb-4">We are here <br>for your Care</h1>
-	            <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
+          		<span class="subheading">Selamat Datang</span>
+	            <h1 class="mb-4">Merawat dengan Kasih<br>Mengabdi dengan Cinta</h1>
+	            <p class="mb-4">Kami berkomitmen untuk memberikan pelayanan kesehatan yang berkualitas dan terpercaya. Kami siap memberikan perawatan terbaik untuk Anda dan keluarga.</p>
 	            <p><a href="#" class="btn btn-primary py-3 px-4">Make an appointment</a></p>
             </div>
           </div>
@@ -685,8 +685,8 @@
       <div class="container">
       	<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
-            <h2 class="mb-4">Contact Us</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+            <h2 class="mb-4">Hubungi Kami</h2>
+            <p>Anda dapat menghubungi kami di media sosial kami</p>
           </div>
         </div>
         <div class="row d-flex contact-info mb-5">
@@ -695,8 +695,8 @@
           		<div class="icon d-flex align-items-center justify-content-center">
           			<span class="icon-map-signs"></span>
           		</div>
-          		<h3 class="mb-4">Address</h3>
-	            <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+          		<h3 class="mb-4">Alamat</h3>
+	            <p>Jl.Raya Pertamina No.27 Kedung Jaya babelan Bekasi</p>
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -704,8 +704,8 @@
           		<div class="icon d-flex align-items-center justify-content-center">
           			<span class="icon-phone2"></span>
           		</div>
-          		<h3 class="mb-4">Contact Number</h3>
-	            <p><a href="tel://1234567920">+ 1235 2355 98</a></p>
+          		<h3 class="mb-4">WhatsApp</h3>
+	            <p><a href="tel://1234567920">085772169307</a></p>
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -713,8 +713,8 @@
           		<div class="icon d-flex align-items-center justify-content-center">
           			<span class="icon-paper-plane"></span>
           		</div>
-          		<h3 class="mb-4">Email Address</h3>
-	            <p><a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+          		<h3 class="mb-4">Alamat Email</h3>
+	            <p><a href="mailto:info@yoursite.com">rs@mail.com</a></p>
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -723,7 +723,7 @@
           			<span class="icon-globe"></span>
           		</div>
           		<h3 class="mb-4">Website</h3>
-	            <p><a href="#">yoursite.com</a></p>
+	            <p><a href="#">rs_zulfamedika.com</a></p>
 	          </div>
           </div>
         </div>
@@ -750,7 +750,9 @@
           </div>
 
           <div class="col-md-6 d-flex">
-          	<div id="map" class="bg-white"></div>
+          	<div id="map" class="bg-white">
+			  <iframe src="https://maps.google.com/maps?q=Celebrity+Fitness+-+Paragon+Semarang&t=&z=17&ie=UTF8&iwloc=&output=embed" width="100%" height="600px" frameborder="0" style="border:0" allowfullscreen></iframe>
+			</div>
           </div>
         </div>
       </div>

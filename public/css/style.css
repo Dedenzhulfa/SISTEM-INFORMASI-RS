@@ -8033,7 +8033,7 @@ h1, h2, h3, h4, h5,
   right: 0;
   z-index: 3;
   background: black;
-  background: #207dff;
+  background: #539bff;
   color: #fff;
   font-size: 14px; }
   .top .register-link {
@@ -8321,17 +8321,17 @@ h1, h2, h3, h4, h5,
       height: 600px; }
 
 .slider-text .subheading {
-  font-size: 12px;
+  font-size: 20px;
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #207dff;
+  color: #fff;
   display: inline-block;
   margin-bottom: 20px;
   font-weight: 600; }
 
 .slider-text h1 {
-  font-size: 64px;
-  color: #000000;
+  font-size: 48px;
+  color: #fff;
   line-height: 1;
   font-weight: 700; }
   @media (max-width: 991.98px) {
@@ -8340,11 +8340,11 @@ h1, h2, h3, h4, h5,
 
 .slider-text p {
   font-weight: 400;
-  color: rgba(0, 0, 0, 0.5); }
+  color: rgba(255, 255, 255, 3); }
   .slider-text p strong {
     font-weight: 700; }
     .slider-text p strong a {
-      color: #000000; }
+      color: #fff; }
 
 .slider-text .breadcrumbs {
   font-size: 16px;
